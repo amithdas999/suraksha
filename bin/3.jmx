@@ -74,7 +74,7 @@ age :${__Random(10,50)}</stringProp>
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\18_3.jtl</stringProp>
+          <stringProp name="filename">C:\ProgramData\Jenkins\.jenkins\workspace\suraksha\bin\18_3.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
